@@ -1,0 +1,22 @@
+{
+  "name": "Hôm nay ăn gì?",
+  "short_name": "Ăn gì?",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "orientation": "portrait",
+  "description": "Ứng dụng gợi ý món ăn ngẫu nhiên cho bạn mỗi ngày.",
+  "icons": [
+    {
+      "src": "/assets/icons/apple_icon.png",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/assets/icons/apple_icon.png",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
